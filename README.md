@@ -1,2 +1,2 @@
-# breast-cancer-classification
+# heart_disease_detection
 project 
